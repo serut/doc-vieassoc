@@ -1,3 +1,6 @@
+
+[Edit this page](https://github.com/serut/doc-vieassoc/edit/master/docs/00_Installation_on_Windows.md)
+
 ## File installation
 Install the github windows software.
 Then, click on tools > options and change the default storage directory to point to the webserver root.
