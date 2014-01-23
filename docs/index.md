@@ -1,6 +1,9 @@
 <p class="lead">
-	<strong>Vie Associative</strong> est un projet open source qui vise à répondre aux besoins que n'importe quel individu éprouve lorsqu’il agit dans le cadre associatif. Le but de ce projet est de créer une communauté de contributeurs qui veulent aider les autres, en travaillant bénévolement au service des associations. Tout ce travail sera disponible sur un site internet de référence, c’est vieassociative.fr.<br>
-	A ce jour, des bénévoles isolés passent beaucoup de temps à développer des applications pour aider telle ou telle association.<br>
-	Et si nous regroupions tous ces savoirs faire sur une plateforme ?
+    <div class="span7 offset1"><a href="https://www.youtube.com/watch?v=4TlJ4qKO2Xg"><img src="http://www.vieassociative.fr/img/items/logovideo.png"></a></div>
+    <h3>Regroupons nos savoirs faire sur une plateforme</h3>
+	
+
+	<p>A ce jour, des bénévoles isolés passent beaucoup de temps à développer des applications pour aider telle ou telle association.</p>
+	<p>C’est là où veut se placer Vie Associative : créons une communauté qui conçoit et gère un système qui répond à une multitude de problématiques liées aux besoins réels des associations, le tout sous une license libre.</p>
 </p>
 <hr/>
