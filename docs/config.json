@@ -2,13 +2,11 @@
 	"title": "Vie Associative",
 	"tagline": "Le site internet pour les associations",
 	"docs_path": "docs",
-	"image": "img/logo.png",
-	"theme": "red",
+	"theme": "navy",
 	"date_modified": true,
 	"repo": "serut/vieassociative",
 	"twitter": ["VieAssociative"],
 	"links": {
-		"Download": "https://github.com/serut/vieassociative/archive/master.zip",
 		"GitHub Repo": "https://github.com/serut/vieassociative"
 	}
 }
